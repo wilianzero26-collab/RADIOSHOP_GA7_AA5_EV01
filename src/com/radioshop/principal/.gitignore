@@ -1,0 +1,10 @@
+# Archivos compilados
+out/
+*.class
+
+# Configuración local y contraseñas
+.env
+config.properties
+
+# Archivos temporales
+*.log
